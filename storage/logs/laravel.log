@@ -1,0 +1,4 @@
+[2023-09-05 22:35:28] local.ERROR: Error al crear estudiante: Illuminate\Database\Eloquent\Model::fill(): Argument #1 ($attributes) must be of type array, Illuminate\Http\Request given, called in /home/victor/U/tarea4/app/Http/Controllers/FormularioController.php on line 40  
+[2023-09-06 01:57:50] local.ERROR: Error al crear estudiante: SQLSTATE[HY000]: General error: 1364 Field 'carne' doesn't have a default value (Connection: mysql, SQL: insert into `estudiantes` () values ())  
+[2023-09-06 02:01:33] local.ERROR: Error al crear estudiante: SQLSTATE[HY000]: General error: 1364 Field 'carne' doesn't have a default value (Connection: mysql, SQL: insert into `estudiantes` () values ())  
+[2023-09-06 02:02:23] local.ERROR: Error al crear estudiante: SQLSTATE[HY000]: General error: 1364 Field 'carne' doesn't have a default value (Connection: mysql, SQL: insert into `estudiantes` () values ())  
